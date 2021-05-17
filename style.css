@@ -9,7 +9,7 @@ body {
     background: #2C2C2C;   
     text-align: center; 
     padding-top: 110px;
-    margin-bottom: 0px;
+    margin-bottom: -1px;
 }
 
 .info-block {
